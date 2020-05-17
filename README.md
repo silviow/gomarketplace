@@ -1,5 +1,5 @@
 # GoMarketplace
-:euro: A minimalist e-commerce app.
+:euro: An e-commerce app.
 
 Cross-platform application developed for study purposes with React Native and TypeScript.
 
